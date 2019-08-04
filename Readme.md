@@ -22,6 +22,6 @@
 + 可以在'parameters.py'文件中修改模型的全部参数。
 
 # 注意
-+ 该复现的Tranformer模型主要是参考论文[*Attention is all you need*](https://arxiv.org/abs/1706.03762)
-+ 代码主要参考了该博主完整的transformer代码[*jadore801120*](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
-+ 代码参考了该博主的transformer结构代码[*luozhouyang*](https://luozhouyang.github.io/transformer/)
++ 该复现的Tranformer模型主要是参考论文 [*Attention is all you need*](https://arxiv.org/abs/1706.03762)
++ 代码主要参考了该博主完整的transformer代码 [*jadore801120*](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
++ 代码参考了该博主的transformer结构代码 [*luozhouyang*](https://luozhouyang.github.io/transformer/)
